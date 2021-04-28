@@ -1,4 +1,4 @@
-Ejemplo LED3 On, Off y Flashing en Bash
+Ejemplo LED3 On, Off y Flashing en C
 
 
 Utilice el argumento "on" para encender el LED3
